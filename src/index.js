@@ -1,1 +1,1 @@
-config.log("version2")
+config.log("version3")
